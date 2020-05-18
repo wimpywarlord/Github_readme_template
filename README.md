@@ -1,3 +1,20 @@
+# Badges
+![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge)
+ 
+![Follow Twitter](https://img.shields.io/twitter/follow/kshitij_dhyani?color=%2317202A&label=Follow%20kshitij_dhyani&logo=twitter&style=for-the-badge) 
+
+![GitHub forks](https://img.shields.io/github/forks/wimpywarlord/Github_readme_template?color=%2317202A&logo=github&style=for-the-badge)
+ 
+ ![GitHub stars](https://img.shields.io/github/stars/wimpywarlord/Github_readme_template?color=%2317202A&label=STARS%20%F0%9F%8C%9F&logo=github&style=for-the-badge)
+ 
+ ![GitHub watchers](https://img.shields.io/github/watchers/wimpywarlord/Github_readme_template?color=%2317202A&logo=github&style=for-the-badge)
+
+Make your own [here.](https://shields.io/)
+Info about icons [here.](https://simpleicons.org/)
+
+# Mark Down CheatSheet 
+Can be found [here.](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
 # Something unique
 
 |                                                                                         <a href="https://github.com/wimpywarlord"><img src="https://i.ibb.co/JCdtj0v/Whats-App-Image-2020-05-18-at-9-41-11-PM.jpg" width=150px height=150px /></a>                                                                                         |
@@ -5,11 +22,6 @@
 |                                                                                                                                        **[Kshitij Dhyani](https://avatars0.githubusercontent.com/u/41532804?s=460&u=b5b9022dc4dc061a63574b6376a9fc23d3dbf695&v=4)**                                                                                                                                        |
 | <a href="https://twitter.com/kshitij_dhyani"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/kshitij.dhyani.3"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="ww.linkedin.com/in/kshitijdhyani/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |
 
-[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/wimpywarlord) 
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/kshitij_dhyani)
-
-> **Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk).**
 
 # Jumbotron for Readme
 Images of the project goes here.
