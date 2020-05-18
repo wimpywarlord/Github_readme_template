@@ -1,3 +1,12 @@
+# Objective
+Creating a very informative and beautiful readme that explains in detail how to setup the project in our local machine along with this decoraion!
+
+# Example of good readme
+Use below resources to produce such readme.
+
+[1. Number One](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/edit/master/README.md)
+[2. Number two](https://github.com/wimpywarlord/Mess_It_Up)
+
 # Badges
 ![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge)
  
