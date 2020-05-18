@@ -1,3 +1,20 @@
+# Something unique
+
+|                                                                                         <a href="https://github.com/wimpywarlord"><img src="https://i.ibb.co/JCdtj0v/Whats-App-Image-2020-05-18-at-9-41-11-PM.jpg" width=150px height=150px /></a>                                                                                         |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                        **[Kshitij Dhyani](https://avatars0.githubusercontent.com/u/41532804?s=460&u=b5b9022dc4dc061a63574b6376a9fc23d3dbf695&v=4)**                                                                                                                                        |
+| <a href="https://twitter.com/kshitij_dhyani"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/kshitij.dhyani.3"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/facebook.png" width="32px" height="32px"></a> <a href="ww.linkedin.com/in/kshitijdhyani/"><img src="https://raw.githubusercontent.com/vinitshahdeo/Water-Monitoring-System/master/assets/linkedin.png" width="32px" height="32px"></a> |
+
+[![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow%20@vinitshahdeo&style=social)](https://github.com/wimpywarlord) 
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/Vinit_Shahdeo?style=social)](https://twitter.com/kshitij_dhyani)
+
+> **Learn more about me [here](https://fayz.in/stories/s/1522/0/?ckt_id=ZGL1ZGVk).**
+
+# Jumbotron for Readme
+Images of the project goes here.
+<img align="center" src="https://i.ibb.co/5T5RYtG/DSC-0283-min-1562309142-223-190-50-232.jpg" alt="drawing" width="100%"/>
+
 # Emoji's as text.
 
 😀 😁 😂 😃 😄 😅 😆 😇 😈 😉 😊 😋 😌 😍 😎 😏 😐 😑 😒 😓 😔 😕.
@@ -5,7 +22,7 @@
 [More here.](https://www.google.com)
 
 # Logos and icons.
-<img src="https://image.flaticon.com/icons/svg/2949/2949972.svg" alt="drawing" width="200"/>
+<img align="center" src="https://image.flaticon.com/icons/svg/2949/2949972.svg" alt="drawing" width="200"/>
 
 [More here.](https://www.flaticon.com/home)
 
