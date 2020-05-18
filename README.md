@@ -41,7 +41,7 @@ Images of the project goes here.
 
 😀 😁 😂 😃 😄 😅 😆 😇 😈 😉 😊 😋 😌 😍 😎 😏 😐 😑 😒 😓 😔 😕.
 
-[More here.](https://www.google.com)
+[More here.](https://html-online.com/articles/colored-icon-characters-copy-paste/)
 
 # Logos and icons.
 <img align="center" src="https://image.flaticon.com/icons/svg/2949/2949972.svg" alt="drawing" width="200"/>
