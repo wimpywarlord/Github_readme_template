@@ -4,7 +4,7 @@ Creating a very informative and beautiful readme that explains in detail how to 
 # Example of good readme
 Use below resources to produce such readme.
 
-[1. Number One](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/edit/master/README.md
+[1. Number One](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/edit/master/README.md)
 
 [2. Number two](https://github.com/wimpywarlord/Mess_It_Up)
 
