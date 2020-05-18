@@ -2,7 +2,12 @@
 
 😀 😁 😂 😃 😄 😅 😆 😇 😈 😉 😊 😋 😌 😍 😎 😏 😐 😑 😒 😓 😔 😕.
 
-[More such emoji's can be found here.](https://www.google.com)
+[More here.](https://www.google.com)
+
+# Logos and icons.
+<img src="https://image.flaticon.com/icons/svg/2949/2949972.svg" alt="drawing" width="200"/>
+
+[More here.](https://www.flaticon.com/home)
 
 # Normal Template of a repo.
 ### Project Title
