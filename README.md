@@ -2,6 +2,7 @@
 Creating a very informative and beautiful readme that explains in detail how to setup the project in our local machine along with this decoraion!
 
 # Master Tool 
+This tool helps in making beautiful readme files quite easily. 
 Use below tips and try using this editor [here.](https://stackedit.io/)
 
 # Example of good readme
