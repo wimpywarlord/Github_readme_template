@@ -1,5 +1,5 @@
 # Objective
-Creating a very informative and beautiful readme that explains in detail how to setup the project in our local machine along with this decoraion!
+Creating a very informative and beautiful readme that explains in detail how to setup the project in our local machine along with this decoration!
 
 # Master Tool 
 This tool helps in making beautiful readme files quite easily. 
