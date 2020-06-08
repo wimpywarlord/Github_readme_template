@@ -6,7 +6,7 @@ This tool helps in making beautiful readme files quite easily.
 Use below tips and try using this editor [here.](https://stackedit.io/)
 
 # Example of good readme
-Use below resources to produce such readme.
+These are some examples of some appealing and aesthetic yet informative readme's. Use them as reference. 
 
 [1. Number One](https://github.com/vinitshahdeo/Event-Loop-In-JavaScript/edit/master/README.md)
 
