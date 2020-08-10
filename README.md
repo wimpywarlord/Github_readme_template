@@ -12,6 +12,9 @@ These are some examples of some appealing and aesthetic yet informative readme's
 
 [2. Number two](https://github.com/wimpywarlord/Mess_It_Up)
 
+# Kshitij Dhyani
+![My Banner](/banner_wimpy.jfif)
+
 # Badges
 ![Follow Github](https://img.shields.io/github/followers/wimpywarlord?color=%2317202A&label=Follow%20wimpywarlord&logo=github&style=for-the-badge)
  
