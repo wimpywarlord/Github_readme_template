@@ -63,6 +63,9 @@ Images of the project goes here.
 [More here.](https://www.flaticon.com/home)
 
 # Normal Template of a repo.
+
+Kindly go through [this](https://github.com/matiassingers/awesome-readme) link and see best in class in readme's, which have indepth instructions and a beautiful look.
+
 ### Project Title
 
 One Paragraph of project description goes here
